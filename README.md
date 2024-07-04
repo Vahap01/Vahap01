@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Vahap01/Vahap01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vahap01 README.md
 
 👋 Hi, I’m @Vahap01 (Vahap DOGAN), currently diving into the exciting world of frontend development.
 👀 I aim to write clean, efficient, and user-friendly code.
